@@ -1,7 +1,7 @@
 [
 {
 "community": "Cozy gamers (r/CozyGamers, mod makers)",
-"label": "COMMUNITY",
+"label": "COMMUNITY (candidate)",
 "theme": "Comfort & care",
 "movement": "GAM-02 Cozy gaming",
 "worlds": "Gaming · Fashion",
@@ -10,7 +10,8 @@
 "language": "\"cozy\", mods, dress-up",
 "verification": "Traced; not yet verified to the community test",
 "first_observed_at": "2026-10-19",
-"last_checked_at": "2026-10-19"
+"last_checked_at": "2026-10-19",
+"label_note": "Relabelled Nov 10: traced, not yet through the full community test"
 },
 {
 "community": "Festival fit-check crowd (ACL, Headtrip)",
@@ -27,7 +28,7 @@
 },
 {
 "community": "South Asian diaspora (garba / Navratri nights)",
-"label": "COMMUNITY",
+"label": "COMMUNITY (candidate)",
 "theme": "Diaspora & heritage (candidate theme)",
 "movement": "FSH-03 Dressing for the occasion",
 "worlds": "Fashion · Music · Food",
@@ -36,7 +37,8 @@
 "language": "garba, chaniya choli, Navratri",
 "verification": "Traced; not yet verified to the community test",
 "first_observed_at": "2026-10-19",
-"last_checked_at": "2026-10-19"
+"last_checked_at": "2026-10-19",
+"label_note": "Relabelled Nov 10: traced, not yet through the full community test"
 },
 {
 "community": "Latin dembow / AI-template dancers",
