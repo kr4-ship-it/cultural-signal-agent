@@ -1,5 +1,7 @@
 # Cultural Signal Agent
 
+**See it run:** [step-by-step replay of real runs](https://claude.ai/artifact/YQCjsxQiiUR1giaKgEA5kV). Pick a question and follow it through each node, including the critic catching an overclaim and the revision loop. The same page is in this repo as `demo.html`; download it and open it in a browser.
+
 A LangGraph agent that answers questions about a brand-blind cultural signal tracker, and won't say more than the evidence supports.
 
 Ask it *"What connects Gaming and Fashion?"* or *"Has #bulin47 been adopted by football fans?"* and it pulls the relevant part of the cultural map, drafts an answer, and sends every claim through an evidence critic before answering. A claim stronger than its evidence ("adopted", "verified community", "established movement") goes back for revision.
